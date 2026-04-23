@@ -27,7 +27,7 @@ export const hackathons: Hackathon[] = [
     location: "New York, NY",
     description: "Build a web app in a weekend. React, Vue, or whatever. Just make it fast.",
     skillsNeeded: ["React", "JavaScript", "UI/UX"],
-    image: "https://images.unsplash.com/photo-1516321318423-f06f70d504f0?w=400&h=300&fit=crop",
+    image: "https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?w=400&h=300&fit=crop",
     participants: 180,
   },
   {
@@ -37,7 +37,7 @@ export const hackathons: Hackathon[] = [
     location: "Austin, TX",
     description: "Create native mobile apps. iOS, Android, whatever you want to build.",
     skillsNeeded: ["Swift", "Kotlin", "React Native"],
-    image: "https://images.unsplash.com/photo-1606933248051-5ce98d5ca4b5?w=400&h=300&fit=crop",
+    image: "https://images.pexels.com/photos/20694602/pexels-photo-20694602.png?w=400&h=300&fit=crop",
     participants: 200,
   },
   {
